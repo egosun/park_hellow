@@ -1,0 +1,9 @@
+D:\98.study\angluar_01\session_1\session_1\bin\session_1.dll.config
+D:\98.study\angluar_01\session_1\session_1\bin\session_1.dll
+D:\98.study\angluar_01\session_1\session_1\bin\session_1.pdb
+D:\98.study\angluar_01\session_1\session_1\bin\Newtonsoft.Json.dll
+D:\98.study\angluar_01\session_1\session_1\bin\Newtonsoft.Json.xml
+D:\98.study\angluar_01\session_1\session_1\obj\Debug\session_1.dll
+D:\98.study\angluar_01\session_1\session_1\obj\Debug\session_1.pdb
+D:\98.study\angluar_01\session_1\session_1\bin\Json.dll
+D:\98.study\angluar_01\session_1\session_1\bin\Json.pdb

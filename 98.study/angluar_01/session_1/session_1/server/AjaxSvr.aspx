@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="AjaxSvr.aspx.cs" Inherits="server_AjaxSvr" %>
